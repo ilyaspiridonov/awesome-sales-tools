@@ -1,0 +1,24 @@
+name: Correction or removal
+description: Report outdated information, a broken link, or a tool that should be removed.
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: Name or link to the affected tool or resource.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What changed?
+      description: Tell us what needs correcting or why the entry should be removed.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Link to a source, or describe the error you see if a link is broken.
+    validations:
+      required: true
