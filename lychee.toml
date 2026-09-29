@@ -1,0 +1,19 @@
+max_concurrency = 8
+max_retries = 2
+retry_wait_time = 2
+timeout = 20
+include_fragments = "anchor-only"
+
+
+exclude = [
+    '^https://6sense\.com/?$', # Cloudflare challenge; product page verified separately.
+    '^https://userevidence\.com/?$', # 403 to checker; verified.
+    '^https://www\.adobe\.com/acrobat/business/sign\.html$', # Protocol error in lychee.
+    '^https://www\.capterra\.com/?$', # Cloudflare block; verified.
+    '^https://www\.g2\.com/?$', # CAPTCHA challenge; verified.
+    '^https://www\.gartner\.com/reviews/home$', # Browser challenge; verified separately.
+    '^https://www\.make\.com/?$', # Cloudflare challenge; verified.
+    '^https://www\.pandadoc\.com/?$', # Verified separately.
+    '^https://www\.trustradius\.com/?$', # Cloudflare challenge; verified.
+    '^https://www\.zoominfo\.com/?$', # CAPTCHA challenge; verified separately.
+]
