@@ -1,0 +1,31 @@
+name: Suggest a tool
+description: Recommend a useful tool for the list.
+body:
+  - type: input
+    id: tool-url
+    attributes:
+      label: Tool URL
+      description: Link to the product's official website or repository.
+    validations:
+      required: true
+  - type: textarea
+    id: recommendation
+    attributes:
+      label: What does it help someone do, and why choose it?
+      description: Describe the sales job and what makes this tool useful alongside the existing choices.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Documentation or product pages
+      description: Link to sources supporting the capabilities you described.
+    validations:
+      required: true
+  - type: input
+    id: relationship
+    attributes:
+      label: Your relationship to the product
+      description: For example, founder, employee, affiliate, user, or none.
+    validations:
+      required: true
