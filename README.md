@@ -143,6 +143,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [Vidyard](https://www.vidyard.com) - Video messaging and hosting with screen recording and AI avatars. Send personalized sales videos and receive notifications when prospects watch them.
 
 ## Conversation Intelligence and Meeting Assistants
+- [AI Group Call](https://aigroupcall.app) - Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call.
 
 - [Avoma](https://www.avoma.com) - Meeting assistant with scheduling and revenue forecasting. Capture notes and follow-ups and review calls to coach sales reps.
 - [Chorus](https://www.zoominfo.com/products/chorus) - Sales call recording and analysis from ZoomInfo. Review conversations and compare patterns across the team's calls.
