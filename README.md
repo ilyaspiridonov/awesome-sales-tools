@@ -58,7 +58,6 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 ## Data Enrichment and Contact Validation
 
 - [Clay](https://www.clay.com) - Spreadsheet-style workflow builder combining data providers and AI research. Fill gaps in prospect lists and pass the results between sales tools.
-- [Datacircle](https://datacircle.dev) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Every morning, you get the flat file of your data plus everyone else's.
 - [Dropcontact](https://www.dropcontact.com) - Email finder and data cleaner for files, Google Sheets, CRMs and API use. Find business email addresses, check their validity and merge duplicate records.
 - [FullEnrich](https://fullenrich.com) - Contact enrichment that tries multiple data providers in sequence. Find and verify contact details when a single provider leaves gaps.
 - [Hunter](https://hunter.io) - Email search and verification with outreach campaigns. Find addresses by person or company domain, check them and send follow-up emails.
