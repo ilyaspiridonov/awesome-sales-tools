@@ -136,6 +136,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [Expandi](https://expandi.io) - Cloud-based LinkedIn automation with email outreach. Schedule connection requests, messages and InMails as part of a follow-up sequence.
 - [HeyReach](https://www.heyreach.io) - LinkedIn outreach automation across multiple sender accounts. Run campaigns for several senders and manage replies in one inbox.
 - [La Growth Machine](https://lagrowthmachine.com) - Prospecting across LinkedIn, email, X and calls, including LinkedIn voice messages. Add missing prospect data and combine channel-specific steps in a follow-up sequence.
+- [OutreachGenie](https://www.outreachgenie.ai/) - LinkedIn prospecting workspace with browser capture and CSV imports. Review lists and custom fields, then build reusable outreach flows and start campaigns.
 
 ## Video Prospecting and Gifting
 
