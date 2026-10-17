@@ -40,6 +40,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 - [Close](https://close.com) - Sales CRM for small teams with built-in calling, SMS and email. Contact prospects and track the resulting conversations and deals in one place.
 - [folk](https://www.folk.app) - Lightweight CRM with LinkedIn contact capture. Save prospects from LinkedIn, fill in missing contact details and send email campaigns.
 - [HubSpot](https://www.hubspot.com) - CRM with a free tier and paid Sales, Marketing and Service hubs. Keep customer records, assign leads and track deals across teams.
+- [Keptrow Lead Follow-Up Tracker](https://keptrow.pages.dev/tools/lead-follow-up-tracker/) - Spreadsheet tracker for trade show leads with a free version, for Excel and Google Sheets. Schedule follow-ups from Day 1 to Day 90, see which leads are due today and copy a pre-filled email or WhatsApp message for each one.
 - [Pipedrive](https://www.pipedrive.com) - CRM built around a visual sales pipeline. Move deals through stages, record sales activities and forecast revenue.
 - [Salesforce Sales Cloud](https://www.salesforce.com/sales/cloud/) - CRM with configurable sales workflows and territory management. Track accounts and deals, automate approvals and tailor forecasts to your sales process.
 - [Zoho CRM](https://www.zoho.com/crm/) - CRM in the Zoho suite with Blueprint process controls on paid tiers. Track deals and define the steps and required information for each sales stage.
