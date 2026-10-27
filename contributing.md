@@ -11,6 +11,7 @@ General-purpose tools need a clear sales or GTM use. Related Resources is for di
 ## Out of scope
 
 - Agencies, consulting services, waitlists, discontinued products and abandoned projects.
+- Standalone spreadsheets, document templates and downloadable worksheets are out of scope.
 - Duplicate listings, affiliate links and tracking links.
 - Products mainly designed for fake accounts or engagement, impersonation, untargeted promotional posting or messaging or evading moderation or access restrictions.
 
