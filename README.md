@@ -76,6 +76,7 @@ Tools for spotting relevant activity and deciding which accounts to approach; a 
 - [RB2B](https://www.rb2b.com) - Website visitor identification with person-level matching limited to US visitors. See which visitors can be matched to professional profiles for follow-up.
 - [UserGems](https://www.usergems.com) - Job-change tracking for past customers and contacts. Find new sales opportunities when people who know your product move to another company.
 - [Warmly](https://warmly.ai) - Website visitor identification with live chat and lead routing. Use available visitor matches and browsing activity to start conversations or assign follow-up to a rep.
+- [Xquik](https://xquik.com) - X (Twitter) data API with an MCP server, SDKs and signed webhooks. Research prospects' public posts and replies, and get alerts when monitored accounts post.
 
 ## Scheduling and Lead Routing
 
