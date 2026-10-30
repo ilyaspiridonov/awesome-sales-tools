@@ -156,6 +156,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [Fathom](https://www.fathom.ai) - Meeting recorder with CRM sync. Turn calls into transcripts and summaries and review them for coaching.
 - [Gong](https://www.gong.io) - Sales call recording with deal health and coaching tools. Review conversations to coach reps, assess deals and forecast revenue.
 - [Otter.ai](https://otter.ai) - Transcription for live meetings and imported audio. Summarize discussions and ask questions about them through AI chat.
+- [Realtimer](https://realtimer.ai) - Real-time call assistant for Mac with answers from your own documents. Get price, product and objection answers during Zoom, Meet, Teams or WhatsApp calls without a bot in the meeting.
 - [tl;dv](https://tldv.io) - Meeting recorder with a bot-free recording option. Generate meeting minutes, update CRM records and review calls for coaching.
 
 ## Demo Platforms
