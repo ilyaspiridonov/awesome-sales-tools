@@ -164,6 +164,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 
 - [Arcade](https://www.arcade.software) - Demo builder for software walkthroughs. Turn captures into interactive demos or AI videos, share them and track engagement.
 - [Consensus](https://goconsensus.com) - Interactive and video demos for buyers to explore on their own. Share product demonstrations and see how buyers engage with them.
+- [CSV to REST API](https://beeceptor.com/csv-to-api/) - Converts CSV data into a hosted REST API with persistent CRUD operations. Build live sales demos around sample spreadsheet data without writing backend code or signing up.
 - [Navattic](https://www.navattic.com) - Interactive product demos for websites and sales teams. Identify demo visitors and track how they explore the product.
 - [Reprise](https://www.reprise.com) - Demo platform for enterprise teams. Build guided walkthroughs, live demo environments and application clones for sales presentations.
 - [Storylane](https://www.storylane.io) - Interactive demo builder with buyer-facing content hubs. Capture screenshots, video, or HTML to build demos, collect leads and track engagement.
