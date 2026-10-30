@@ -2,6 +2,8 @@
 
 > Tools for B2B sales, RevOps and go-to-market (GTM) teams.
 
+[Browse the web version](https://ilyaspiridonov.github.io/awesome-sales-tools/).
+
 Browse tools for finding prospects, running outreach, closing deals and keeping customers. Each product appears once, under its main use. We look for a clear sales workflow and a useful difference from the tools already listed.
 
 [Suggest a tool or correction](https://github.com/ilyaspiridonov/awesome-sales-tools/issues/new/choose), or read the [contribution guide](contributing.md).

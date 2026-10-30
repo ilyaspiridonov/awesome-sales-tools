@@ -275,10 +275,16 @@ def render_footer(document: Document) -> str:
 
 def render_page(document: Document, template: str, site_url: str = DEFAULT_SITE_URL) -> str:
     site_url = safe_url(site_url, absolute=True)
+    # Omit the README's standalone website link on the website itself.
+    self_link = re.compile(rf"\[[^\]]+\]\({re.escape(site_url.rstrip('/'))}/?\)\.?")
     values = {
         "TITLE": escape(document.title),
         "DESCRIPTION": escape(plain_markdown(document.intro[0] if document.intro else document.title), quote=True),
-        "INTRO": "\n".join(f"<p>{inline_markdown(value)}</p>" for value in document.intro[1:]),
+        "INTRO": "\n".join(
+            f"<p>{inline_markdown(value)}</p>"
+            for value in document.intro[1:]
+            if not self_link.fullmatch(value)
+        ),
         "TOOL_COUNT": str(document.tool_count),
         "CATEGORY_COUNT": str(document.category_count),
         "NAV": render_nav(document),
