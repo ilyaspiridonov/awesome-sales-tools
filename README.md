@@ -58,6 +58,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 
 ## Data Enrichment and Contact Validation
 
+- [BatchData](https://batchdata.io) - U.S. property and owner data API with skip tracing, phone verification and address verification. Find owners and verified contact details for property-based prospect lists and push them into a CRM.
 - [Clay](https://www.clay.com) - Spreadsheet-style workflow builder combining data providers and AI research. Fill gaps in prospect lists and pass the results between sales tools.
 - [Dropcontact](https://www.dropcontact.com) - Email finder and data cleaner for files, Google Sheets, CRMs and API use. Find business email addresses, check their validity and merge duplicate records.
 - [FullEnrich](https://fullenrich.com) - Contact enrichment that tries multiple data providers in sequence. Find and verify contact details when a single provider leaves gaps.
