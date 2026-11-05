@@ -66,6 +66,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 - [FullEnrich](https://fullenrich.com) - Contact enrichment that tries multiple data providers in sequence. Find and verify contact details when a single provider leaves gaps.
 - [Hunter](https://hunter.io) - Email search and verification with outreach campaigns. Find addresses by person or company domain, check them and send follow-up emails.
 - [looot](https://looot.ai) - Prepaid data API and remote MCP server with one key for about 2,500 endpoints from 90+ providers. Find work emails and phones, enrich companies and look up tech stacks from a script or an AI agent.
+- [MailVeri](https://mailveri.com) - Email verification API and bulk list cleaner with catch-all, role and disposable detection. Check addresses before outreach or in signup forms, or from AI agents through its open-source MCP server.
 - [NeverBounce](https://neverbounce.com) - Email verifier with bulk uploads, a form widget and an API. Check lists before sending or validate addresses as people submit them.
 
 ## Buyer Signals and Intent Data
