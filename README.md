@@ -248,6 +248,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 Directories and review sites for further research and product comparisons.
 
 - [Capterra](https://www.capterra.com) - Software directory with user reviews, comparison tools and category shortlists, part of Gartner Digital Markets.
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
 - [G2](https://www.g2.com) - Peer-review site for business software with category grids based on user satisfaction and market presence.
 - [Gartner Peer Insights](https://www.gartner.com/reviews/home) - Enterprise software reviews run by Gartner, organized by market.
 - [RevManic](https://revmanic.com) - Directory of revenue tools organized by sales stage, category and job to be done, with product profiles and comparisons.
