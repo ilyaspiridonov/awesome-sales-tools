@@ -253,6 +253,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [Insycle](https://www.insycle.com) - CRM data maintenance with recurring workflows. Remove duplicates, standardize records and automate lead and account routing.
 - [Make](https://www.make.com) - Visual workflow builder with branching, filters and data stores. Connect apps and automate how data moves between them.
 - [n8n](https://n8n.io) - Source-available workflow automation ([source](https://github.com/n8n-io/n8n)) with self-hosting. Connect apps through a visual builder and add code steps for custom logic.
+- [PageUtil HubSpot Association CSV Checker & Mapper](https://pageutil.com/hubspot-association-csv-checker/) - Browser-local checker for HubSpot association import files without a CRM connection. Map identifiers, review missing references and duplicate relationships, and export candidate CSVs for account-level verification before importing.
 - [Workato](https://www.workato.com) - Enterprise integration software with API management and governance. Connect applications and automate shared workflows using reusable recipes.
 - [Zapier](https://zapier.com) - App automation with tables, interfaces and agents. Connect triggers and actions to route leads and keep records in sync across apps.
 
