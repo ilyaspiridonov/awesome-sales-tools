@@ -77,6 +77,7 @@ Tools for spotting relevant activity and deciding which accounts to approach; a 
 - [Common Room](https://www.commonroom.io) - Combined view of product usage, website visits, community activity and job changes. Connect these signals to contacts and accounts, prioritize them and assign follow-up.
 - [Demandbase One](https://www.demandbase.com) - Account intelligence with intent data and advertising. Find target accounts, map the people involved in a purchase and track their research interests.
 - [RB2B](https://www.rb2b.com) - Website visitor identification with person-level matching limited to US visitors. See which visitors can be matched to professional profiles for follow-up.
+- [Repclose](https://repclose.com) - Account research for teams selling software to engineering buyers. Rank an account list, see the relevant people at each account and open the dated source behind every point.
 - [UserGems](https://www.usergems.com) - Job-change tracking for past customers and contacts. Find new sales opportunities when people who know your product move to another company.
 - [Warmly](https://warmly.ai) - Website visitor identification with live chat and lead routing. Use available visitor matches and browsing activity to start conversations or assign follow-up to a rep.
 - [Xquik](https://xquik.com) - X (Twitter) data API with an MCP server, SDKs and signed webhooks. Research prospects' public posts and replies, and get alerts when monitored accounts post.
