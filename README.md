@@ -105,6 +105,7 @@ Tools that automate parts of prospect research, outreach, or reply handling; the
 
 - [11x](https://www.11x.ai) - AI agents for outbound prospecting and inbound lead qualification. Automate prospect research, outreach and meeting booking, then hand conversations to sales reps.
 - [Artisan](https://www.artisan.co) - AI prospecting agent called Ava, alongside a dialer for sales reps. Automate prospect research and outreach with Ava and make calls yourself through the dialer.
+- [Moab](https://moabcrm.com) - AI sales agents for founders, each testing one buyer, one channel and one message, with every draft approved by a person before it sends. Paste your site to get a first set of buyers to test, then send the drafts you approve from your own Gmail, LinkedIn or outreach tool.
 - [Oliv](https://www.oliv.ai) - AI agents for prospecting, deal follow-up and customer account management. Research prospects, prepare CRM updates and flag renewal risks or expansion opportunities.
 - [Regie.ai](https://regie.ai) - Prospecting workspace combining AI agents, a CRM and a dialer. Find target accounts and combine automated outreach with rep-led calls.
 
