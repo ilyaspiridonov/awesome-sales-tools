@@ -52,6 +52,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 - [BuiltWith](https://builtwith.com) - Database of the technologies used on websites. Find companies using particular software and build lists for prospecting.
 - [Cognism](https://www.cognism.com) - Contact and company database with mobile numbers and EMEA coverage. Find business contacts and add phone numbers and company details to existing records.
 - [Crunchbase](https://www.crunchbase.com) - Private-company database covering funding, leadership and company characteristics. Research target accounts and spot funding rounds or leadership changes that give you a reason to reach out.
+- [Indexed](https://indexed.vc) - Private-company and funding database with a free-tier API. Resolve a domain to a company profile and look up funding rounds and investors.
 - [Kaspr](https://www.kaspr.io) - LinkedIn browser extension from Cognism. Look up contact details while browsing profiles and add them to prospect records.
 - [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) - LinkedIn's lead and account search tool with alerts and InMail. Find relevant decision-makers, follow account updates and contact prospects on LinkedIn.
 - [Lusha](https://www.lusha.com) - Contact and company data available through an extension, CSV upload, or API. Look up business contacts and filter prospects by research activity on relevant topics.
