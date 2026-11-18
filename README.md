@@ -43,6 +43,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 - [folk](https://www.folk.app) - Lightweight CRM with LinkedIn contact capture. Save prospects from LinkedIn, fill in missing contact details and send email campaigns.
 - [HubSpot](https://www.hubspot.com) - CRM with a free tier and paid Sales, Marketing and Service hubs. Keep customer records, assign leads and track deals across teams.
 - [Pipedrive](https://www.pipedrive.com) - CRM built around a visual sales pipeline. Move deals through stages, record sales activities and forecast revenue.
+- [SAGARIS](https://www.sagaris.ai) - AI CRM with a built-in parallel dialer for B2B sales teams. Call up to five lines per rep, work the inbox and SMS in one place, and review calls with an AI coach.
 - [Salesforce Sales Cloud](https://www.salesforce.com/sales/cloud/) - CRM with configurable sales workflows and territory management. Track accounts and deals, automate approvals and tailor forecasts to your sales process.
 - [Zoho CRM](https://www.zoho.com/crm/) - CRM in the Zoho suite with Blueprint process controls on paid tiers. Track deals and define the steps and required information for each sales stage.
 
