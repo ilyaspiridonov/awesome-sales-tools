@@ -16,7 +16,7 @@ from urllib.parse import urljoin, urlsplit, urlunsplit
 ROOT = Path(__file__).resolve().parent.parent
 REPO_URL = "https://github.com/ilyaspiridonov/awesome-sales-tools"
 DEFAULT_SITE_URL = "https://ilyaspiridonov.github.io/awesome-sales-tools/"
-ENTRY = re.compile(r"- \[([^\]\n]+)\]\((\S+)\)(?: \| \[OSS\]\((\S+)\))? - (.+)")
+ENTRY = re.compile(r"- \[([^\]\n]+)\]\((\S+)\) - (.+)")
 CONTENTS_ENTRY = re.compile(r"- \[([^\]\n]+)\]\(#([^\s)]+)\)")
 BADGE = re.compile(r"\s+\[!\[[^\]]*\]\([^\s)]+\)\]\([^\s)]+\)$")
 PLACEHOLDER = re.compile(r"\{\{([A-Z_]+)\}\}")
@@ -27,7 +27,6 @@ class Entry:
     name: str
     url: str
     description: str
-    license_url: str | None = None
 
 
 @dataclass
@@ -204,13 +203,11 @@ def parse_readme(source: str) -> Document:
                 match = ENTRY.fullmatch(line)
                 if area != "section" or current is None or not match:
                     raise ValueError("Expected a tool entry: - [Name](https://example.com) - Description")
-                name, url, license_url, description = match.groups()
+                name, url, description = match.groups()
                 name = name.strip()
                 if not name:
                     raise ValueError("A tool entry has an empty name")
                 url = safe_url(url, absolute=True)
-                if license_url:
-                    license_url = safe_url(license_url, absolute=True)
                 parsed = urlsplit(url)
                 url_key = urlunsplit((parsed.scheme.lower(), parsed.netloc.lower(), parsed.path.rstrip("/"), parsed.query, ""))
                 if name.casefold() in names or url_key in urls:
@@ -218,7 +215,7 @@ def parse_readme(source: str) -> Document:
                 inline_markdown(description)
                 names.add(name.casefold())
                 urls.add(url_key)
-                current.entries.append(Entry(name, url, description, license_url))
+                current.entries.append(Entry(name, url, description))
                 continue
             paragraph.append(line[2:] if area == "intro" and line.startswith("> ") else line)
         except ValueError as error:
@@ -256,19 +253,11 @@ def render_sections(document: Document) -> str:
         parts.extend(f'<p class="section-description">{inline_markdown(value)}</p>' for value in section.descriptions)
         parts.append('<ul class="tool-list">')
         for entry in section.entries:
-            search = f"{entry.name} {plain_markdown(entry.description)} {section.title}"
-            license_link = ""
-            if entry.license_url:
-                search += " OSS open source open-source"
-                license_link = (
-                    ' <span aria-hidden="true">|</span> '
-                    f'<a href="{escape(entry.license_url, quote=True)}" '
-                    f'aria-label="OSS (open-source license for {escape(entry.name, quote=True)})">OSS</a>'
-                )
+            search = escape(f"{entry.name} {plain_markdown(entry.description)} {section.title}", quote=True)
             parts.append(
-                f'<li class="tool-entry" data-search="{escape(search, quote=True)}"><div>'
+                f'<li class="tool-entry" data-search="{search}">'
                 f'<a class="tool-name" href="{escape(entry.url, quote=True)}">{escape(entry.name)} '
-                f'<span aria-hidden="true">↗</span></a>{license_link}</div>'
+                '<span aria-hidden="true">↗</span></a>'
                 f'<p class="tool-description">{inline_markdown(entry.description)}</p></li>'
             )
         parts.extend(["</ul>", "</section>"])

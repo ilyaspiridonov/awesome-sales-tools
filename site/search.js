@@ -32,9 +32,7 @@
     for (const section of sections) {
       let visible = 0;
       for (const entry of section.entries) {
-        entry.element.hidden = !tokens.every((token) =>
-          token === "oss" ? /\boss\b/.test(entry.text) : entry.text.includes(token)
-        );
+        entry.element.hidden = !tokens.every((token) => entry.text.includes(token));
         if (!entry.element.hidden) visible++;
       }
       section.element.hidden = visible === 0;

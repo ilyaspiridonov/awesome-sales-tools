@@ -33,9 +33,7 @@ class BuildTests(unittest.TestCase):
         source = (build.ROOT / "README.md").read_text(encoding="utf-8")
         document = build.parse_readme(source)
         page = PageElements(build.render_sections(document))
-        source_entries = re.findall(
-            r"^- \[([^\]]+)\]\((\S+)\)(?: \| \[OSS\]\((\S+)\))? - (.+)$", source, re.MULTILINE
-        )
+        source_entries = re.findall(r"^- \[([^\]]+)\]\((\S+)\) - (.+)$", source, re.MULTILINE)
         headings = re.findall(r"^## (.+)$", source, re.MULTILINE)
         categories = [heading for heading in headings if heading not in {"Contents", "Footnotes", "Related Resources"}]
         resources = re.search(r"^## Related Resources\n(.*?)(?=^## |\Z)", source, re.MULTILINE | re.DOTALL)
@@ -47,32 +45,11 @@ class BuildTests(unittest.TestCase):
         self.assertEqual([section["id"] for section in page.sections], [section.slug for section in document.sections])
         if resources:
             self.assertEqual(next(section for section in page.sections if section["id"] == "related-resources")["data-kind"], "resource")
-        for name, url, license_url, description in source_entries:
+        for name, url, description in source_entries:
             self.assertIn(url, page.links)
-            if license_url:
-                self.assertIn(license_url, page.links)
             self.assertTrue(any(entry["data-search"].startswith(name + " ") for entry in page.entries))
             for nested_url in re.findall(r"\[[^\]]+\]\((https?://[^()\s]+)\)", description):
                 self.assertIn(nested_url, page.links)
-
-    def test_oss_link_and_search_terms_apply_only_to_marked_entries(self):
-        document = build.parse_readme(
-            "# Tools\n\n## CRM\n\n"
-            "- [First](https://one.example) | [OSS](https://one.example/LICENSE) - Manage leads.\n"
-            "- [Second](https://two.example) - Track sales.\n"
-        )
-        page = PageElements(build.render_sections(document))
-        self.assertEqual(document.tool_count, 2)
-        self.assertEqual(page.links, ["https://one.example", "https://one.example/LICENSE", "https://two.example"])
-        marked, plain = [entry["data-search"].lower() for entry in page.entries]
-        for term in ("oss", "open source"):
-            self.assertIn(term, marked)
-            self.assertNotIn(term, plain)
-
-    def test_oss_license_link_must_be_an_absolute_web_url(self):
-        for url in ("LICENSE", "//example.com/LICENSE", "javascript:alert(1)"):
-            with self.subTest(url=url), self.assertRaises(ValueError):
-                build.parse_readme(f"# Tools\n\n## CRM\n\n- [First](https://one.example) | [OSS]({url}) - Manage leads.\n")
 
     def test_html_is_escaped_in_names_descriptions_and_search(self):
         document = build.parse_readme(

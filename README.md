@@ -6,8 +6,6 @@
 
 Browse tools for finding prospects, running outreach, closing deals and keeping customers. Each product appears once, under its main use. We look for a clear sales workflow and a useful difference from the tools already listed.
 
-The OSS marker stands for open-source software and links to the tool's license.
-
 [Suggest a tool or correction](https://github.com/ilyaspiridonov/awesome-sales-tools/issues/new/choose), or read the [contribution guide](contributing.md).
 
 ## Contents
@@ -43,7 +41,6 @@ The OSS marker stands for open-source software and links to the tool's license.
 - [Attio](https://attio.com) - CRM with a flexible data model and email and calendar sync. Organize customer records around your sales process and automate follow-up sequences.
 - [Close](https://close.com) - Sales CRM for small teams with built-in calling, SMS and email. Contact prospects and track the resulting conversations and deals in one place.
 - [folk](https://www.folk.app) - Lightweight CRM with LinkedIn contact capture. Save prospects from LinkedIn, fill in missing contact details and send email campaigns.
-- [Honk](https://github.com/danii1/honk-crm) | [OSS](https://github.com/danii1/honk-crm/blob/master/LICENSE) - Self-hosted CRM with a dashboard and an MCP server for AI agents. Track leads and conversations, review agent-prepared drafts, and plan follow-ups.
 - [HubSpot](https://www.hubspot.com) - CRM with a free tier and paid Sales, Marketing and Service hubs. Keep customer records, assign leads and track deals across teams.
 - [Pipedrive](https://www.pipedrive.com) - CRM built around a visual sales pipeline. Move deals through stages, record sales activities and forecast revenue.
 - [Salesforce Sales Cloud](https://www.salesforce.com/sales/cloud/) - CRM with configurable sales workflows and territory management. Track accounts and deals, automate approvals and tailor forecasts to your sales process.
