@@ -23,6 +23,7 @@ For a pull request:
 
 - Add one new product at a time, alphabetically under its main use. List it once, even if it does several jobs.
 - Use `- [Name](https://url) - Product description. What you can do with it.` Link to the official website or repository. A source link can also go in the PR description.
+- For a tool or edition covered by an [OSI-approved license](https://opensource.org/licenses), add ` | [OSS](https://url/to/LICENSE)` immediately after the product link. Link directly to that project's license file. If only an SDK or connector is open source, describe that component in the entry and omit the product-level marker.
 - Write two short sentences: what it is, then the work it helps someone do. Start the second with an action verb. Related resources can use one sentence.
 - Write naturally, for example: "Run email follow-ups". 
 - Give readers a concrete reason to consider it. Avoid invented differences or a second sentence that just repeats the category. 
