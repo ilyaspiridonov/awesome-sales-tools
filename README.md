@@ -43,6 +43,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 - [folk](https://www.folk.app) - Lightweight CRM with LinkedIn contact capture. Save prospects from LinkedIn, fill in missing contact details and send email campaigns.
 - [Honk](https://github.com/danii1/honk-crm) | [OSS](https://github.com/danii1/honk-crm/blob/master/LICENSE) - Self-hosted, agent-first CRM for leads, conversations, drafts, and follow-ups. Record outreach and review drafts and next steps from a dashboard, with an MCP server for the agent.
 - [HubSpot](https://www.hubspot.com) - CRM with a free tier and paid Sales, Marketing and Service hubs. Keep customer records, assign leads and track deals across teams.
+- [LinkTrack](https://linktrackapp.com) - CRM for contacts found on LinkedIn, with a Chrome extension that saves the profile you have open. Track people on a pipeline and get a daily list of who to follow up with.
 - [Pipedrive](https://www.pipedrive.com) - CRM built around a visual sales pipeline. Move deals through stages, record sales activities and forecast revenue.
 - [Salesforce Sales Cloud](https://www.salesforce.com/sales/cloud/) - CRM with configurable sales workflows and territory management. Track accounts and deals, automate approvals and tailor forecasts to your sales process.
 - [Zoho CRM](https://www.zoho.com/crm/) - CRM in the Zoho suite with Blueprint process controls on paid tiers. Track deals and define the steps and required information for each sales stage.
