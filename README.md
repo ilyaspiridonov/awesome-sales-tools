@@ -228,6 +228,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [Aviso](https://www.aviso.com) - Revenue forecasting with conversation analysis and deal guidance. Use CRM and sales activity data to assess deals and forecast the pipeline.
 - [Backstory](https://www.backstory.ai) - Sales activity capture and engagement dashboards, formerly People.ai. Sync activity to the CRM and use it to review pipeline performance and forecasts.
 - [Dreamdata](https://dreamdata.io) - B2B revenue attribution connecting marketing and sales data. Trace pipeline and revenue back to the activities that contributed to them.
+- [Historical Snapshots](https://kayabyte.dev/hubspot/historical-snapshots/) - Pipeline point-in-time snapshotting and historical deal analytics for HubSpot CRM. Track deal stage velocity and receive weekly pipeline slippage comparisons without Enterprise tier.
 - [HockeyStack](https://www.hockeystack.com) - Buyer journey analytics combining website, marketing, sales and CRM data. Review pipeline performance and connect marketing activities to revenue.
 - [Ruler Analytics](https://www.ruleranalytics.com) - Revenue attribution across website visits and offline interactions. Connect those interactions to leads, opportunities and revenue.
 
