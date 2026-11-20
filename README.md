@@ -120,6 +120,8 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [Instantly](https://instantly.ai) - Cold email platform with a lead database, warm-up and purchasable domains and mailboxes. Set up sending accounts, run campaigns and monitor deliverability in one place.
 - [lemlist](https://www.lemlist.com) - Email, LinkedIn and calling campaigns with a lead database and warm-up. Find prospects and combine email follow-ups with social messages and calls.
 - [Smartlead](https://www.smartlead.ai) - Cold email platform with mailbox rotation and warm-up. Distribute campaign sending across accounts and handle replies in a unified inbox.
+- [WarmySender](https://github.com/warmysender-oss/warmysender) - AGPL-3.0 cold email engine you can self-host, with sequences and a unified inbox. Run campaigns with same-thread follow-ups from your own mailboxes, with send caps enforced in code.
+
 
 ## Email Deliverability and Sending Infrastructure
 
