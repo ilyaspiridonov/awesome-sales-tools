@@ -240,6 +240,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [Hyperbound](https://www.hyperbound.ai) - AI buyer simulations for sales role-play. Practice conversations and use scores and feedback to guide coaching.
 - [IndustryLens](https://industry-lens.com/companies) - Sourced B2B SaaS competitor battlecards covering pricing, recent moves, reviews and hiring. Prepare for competitive sales conversations using public company profiles.
 - [Mindtickle](https://www.mindtickle.com) - Sales training with certifications, AI role-play and conversation analysis. Onboard reps and combine practice sessions with coaching from real calls.
+- [Salesably](https://www.salesably.ai) - AI sales role-play and call scoring built on your team's playbook and rubric. Practice voice conversations with an AI buyer, then grade real calls against the same standard.
 - [Showpad](https://www.showpad.com) - Sales content library with buyer-facing Shared Spaces. Organize materials, share them with buyers and track engagement to inform follow-ups.
 - [Spekit](https://www.spekit.com) - Knowledge and training tools embedded in everyday work. Organize sales content and give reps contextual guidance and learning paths.
 
