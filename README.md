@@ -118,6 +118,7 @@ Tools that automate parts of prospect research, outreach, or reply handling; the
 Tools centered on sending email campaigns and managing replies, with other channels available in some products.
 
 - [Instantly](https://instantly.ai) - Cold email platform with a lead database, warm-up and purchasable domains and mailboxes. Set up sending accounts, run campaigns and monitor deliverability in one place.
+- [Kata Send](https://katasend.com) - Cold email sending that an AI agent runs through an MCP server, with warmed mailboxes and address checks. Send to a lead list from Claude or ChatGPT, follow up and read the replies.
 - [lemlist](https://www.lemlist.com) - Email, LinkedIn and calling campaigns with a lead database and warm-up. Find prospects and combine email follow-ups with social messages and calls.
 - [Smartlead](https://www.smartlead.ai) - Cold email platform with mailbox rotation and warm-up. Distribute campaign sending across accounts and handle replies in a unified inbox.
 
