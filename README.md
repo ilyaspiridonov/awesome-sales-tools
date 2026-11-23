@@ -58,6 +58,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 - [LeadMerlin](https://leadmerlin.com) - Local business data from Google Maps with owner names, checked emails, phone line types and website tech stack, via dashboard, API or agent skill. Build prospect lists of small businesses by trade and city and export them as CSV.
 - [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) - LinkedIn's lead and account search tool with alerts and InMail. Find relevant decision-makers, follow account updates and contact prospects on LinkedIn.
 - [Lusha](https://www.lusha.com) - Contact and company data available through an extension, CSV upload, or API. Look up business contacts and filter prospects by research activity on relevant topics.
+- [Rookiefeed](https://rookiefeed.com) - Daily list of US trucking companies that FMCSA granted new operating authority the day before. Reach new carriers in their first weeks with owner contacts, fleet size, equipment and insurer.
 - [StackScan](https://www.stackscan.com) - Technology lookup and reverse technology search across millions of websites. Build account lists of companies running a given CMS, ecommerce platform or tool, filtered by country and industry.
 - [ZoomInfo](https://www.zoominfo.com) - Company and contact database with intent signals and website visitor identification. Build account lists, find contacts and prioritize companies showing relevant research or website activity.
 
