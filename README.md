@@ -67,6 +67,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 - [Clay](https://www.clay.com) - Spreadsheet-style workflow builder combining data providers and AI research. Fill gaps in prospect lists and pass the results between sales tools.
 - [Data Gleaner](https://github.com/datagleaner/data-gleaner-mcp) - Remote MCP server and Apify Actors that return website emails, team pages and Google Maps leads per result. Build lead lists by industry and city from an AI agent or a script.
 - [Dropcontact](https://www.dropcontact.com) - Email finder and data cleaner for files, Google Sheets, CRMs and API use. Find business email addresses, check their validity and merge duplicate records.
+- [Founder Email Finder](https://founders.intropi.in) - Founder and owner finder for lists of company websites. Get the decision maker's name, a likely email marked as published or guessed, shared inboxes and phone numbers.
 - [FullEnrich](https://fullenrich.com) - Contact enrichment that tries multiple data providers in sequence. Find and verify contact details when a single provider leaves gaps.
 - [Hunter](https://hunter.io) - Email search and verification with outreach campaigns. Find addresses by person or company domain, check them and send follow-up emails.
 - [looot](https://looot.ai) - Prepaid data API and remote MCP server with one key for about 2,500 endpoints from 90+ providers. Find work emails and phones, enrich companies and look up tech stacks from a script or an AI agent.
