@@ -155,6 +155,12 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [Sendoso](https://www.sendoso.com) - Gifting platform with inventory storage and fulfillment for physical and digital gifts. Send gifts or direct mail and follow delivery progress.
 - [Sendspark](https://www.sendspark.com) - Video personalization using AI voice cloning and dynamic backgrounds. Adapt a recording for individual recipients and track how they engage with it.
 - [Vidyard](https://www.vidyard.com) - Video messaging and hosting with screen recording and AI avatars. Send personalized sales videos and receive notifications when prospects watch them.
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 ## Conversation Intelligence and Meeting Assistants
 
