@@ -112,6 +112,7 @@ Tools that automate parts of prospect research, outreach, or reply handling; the
 - [GrowFast](https://growfast.sh) - AI sales agent that starts from your product's website. Find matching B2B companies, check the public page behind each contact address, and send the first emails.
 - [Oliv](https://www.oliv.ai) - AI agents for prospecting, deal follow-up and customer account management. Research prospects, prepare CRM updates and flag renewal risks or expansion opportunities.
 - [Regie.ai](https://regie.ai) - Prospecting workspace combining AI agents, a CRM and a dialer. Find target accounts and combine automated outreach with rep-led calls.
+- [Vendo AI](https://vendo-ai.com/vendo-sdr/) - AI SDR built on buying signals. Watch funding, hiring and leadership changes across 24 sources, find the decision-maker and draft the first email or LinkedIn message.
 
 ## Cold Email Platforms
 
