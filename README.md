@@ -190,6 +190,7 @@ Tools centered on sending email campaigns and managing replies, with other chann
 - [PandaDoc](https://www.pandadoc.com) - Document workflows for proposals, quotes and contracts. Create documents from templates, track views, collect signatures and accept payments.
 - [Qwilr](https://qwilr.com) - Proposals and quotes presented as web pages. Track buyer engagement, collect signatures and take payments.
 - [Salesforce Revenue Cloud](https://www.salesforce.com/sales/revenue-lifecycle-management/revenue-cloud/) - Product catalog, quoting and billing inside Salesforce. Price deals, manage contracts and renewals and process orders and payments.
+- [Wandero](https://www.wandero.ai/) - AI-native workspace for businesses that sell by quote. Prepare custom priced offers from incoming requests and follow up on them.
 
 ## Contracts and E-Signature
 
