@@ -41,6 +41,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 - [Attio](https://attio.com) - CRM with a flexible data model and email and calendar sync. Organize customer records around your sales process and automate follow-up sequences.
 - [Close](https://close.com) - Sales CRM for small teams with built-in calling, SMS and email. Contact prospects and track the resulting conversations and deals in one place.
 - [folk](https://www.folk.app) - Lightweight CRM with LinkedIn contact capture. Save prospects from LinkedIn, fill in missing contact details and send email campaigns.
+- [Genaya](https://www.genaya.com) - CRM for service businesses with calling, texting, scheduling, estimates and invoices built in. Track leads and clients, send estimates and follow up by call or text from one app.
 - [Honk](https://github.com/danii1/honk-crm) | [OSS](https://github.com/danii1/honk-crm/blob/master/LICENSE) - Self-hosted, agent-first CRM for leads, conversations, drafts, and follow-ups. Record outreach and review drafts and next steps from a dashboard, with an MCP server for the agent.
 - [HubSpot](https://www.hubspot.com) - CRM with a free tier and paid Sales, Marketing and Service hubs. Keep customer records, assign leads and track deals across teams.
 - [LinkTrack](https://linktrackapp.com) - CRM for contacts found on LinkedIn, with a Chrome extension that saves the profile you have open. Track people on a pipeline and get a daily list of who to follow up with.
