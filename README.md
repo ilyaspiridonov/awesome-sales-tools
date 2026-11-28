@@ -51,6 +51,7 @@ Browse tools for finding prospects, running outreach, closing deals and keeping 
 ## B2B Data and Sales Intelligence
 
 - [Apollo.io](https://www.apollo.io) - Contact and company database with built-in sequences and calling. Build prospect lists and start email or phone outreach from the same tool.
+- [B2B Market Intel](https://github.com/truonggiang0111/b2b-market-intel-mcp) - Open-source Node.js MCP server for UK public procurement notices, ClinicalTrials.gov biotech sponsors, Google News URL decoding, and optional APIFY_TOKEN app churn, hiring, and ad research. Build B2B prospect lists and competitor signal feeds from Claude Desktop, Cursor, or VS Code.
 - [BuiltWith](https://builtwith.com) - Database of the technologies used on websites. Find companies using particular software and build lists for prospecting.
 - [Cognism](https://www.cognism.com) - Contact and company database with mobile numbers and EMEA coverage. Find business contacts and add phone numbers and company details to existing records.
 - [Crunchbase](https://www.crunchbase.com) - Private-company database covering funding, leadership and company characteristics. Research target accounts and spot funding rounds or leadership changes that give you a reason to reach out.
